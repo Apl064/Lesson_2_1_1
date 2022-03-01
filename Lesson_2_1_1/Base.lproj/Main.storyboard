@@ -31,7 +31,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="3iV-N1-NCX" secondAttribute="trailing" constant="16" id="227-WT-2Na"/>
                             <constraint firstItem="3iV-N1-NCX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="2JB-Aw-HKt"/>
                             <constraint firstItem="jhg-lF-X0H" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="5Lz-nX-exO"/>
-                            <constraint firstItem="jhg-lF-X0H" firstAttribute="height" secondItem="3iV-N1-NCX" secondAttribute="height" id="6PG-gd-yS4" userLabel="height = View.height"/>
+                            <constraint firstItem="jhg-lF-X0H" firstAttribute="height" secondItem="3iV-N1-NCX" secondAttribute="height" id="6PG-gd-yS4"/>
                             <constraint firstItem="jhg-lF-X0H" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="WIL-Wk-hHT"/>
                             <constraint firstItem="3iV-N1-NCX" firstAttribute="top" secondItem="jhg-lF-X0H" secondAttribute="bottom" constant="16" id="dDi-VX-35u"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="jhg-lF-X0H" secondAttribute="trailing" constant="16" id="rdw-bb-uup"/>
